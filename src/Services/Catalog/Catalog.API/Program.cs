@@ -7,7 +7,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace aspnetrun_microservices
+namespace Catalog.API
 {
     public class Program
     {
